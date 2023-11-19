@@ -6,4 +6,4 @@
 
 # 3D Model Links
 1) Download it
-2) Import it as asset on Unity
+2) Import it as asset on Unity , Hit play
